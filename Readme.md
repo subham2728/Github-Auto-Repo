@@ -1,7 +1,5 @@
 ## This python module is used to create a github repository automatically and pushing all the files into that repository.
 
-
-
 ## You can check out the module [GithubAutoRepo](https://pypi.org/project/GithubAutoRepo/0.0.1/#description)
 
 Install this module by,<br>
@@ -29,8 +27,6 @@ GithubAutoRepo.autoRepo(REPO_PATH,GITHUB_TOKEN,GITHUB_USERNAME)
 3. `  Click on personal access token ->`<br><br>
 4. `  Click on generate new token ->`<br><br>
 5. `  Click on all the check boxes and click generate token`<br>
-
-
 
 > Made with ❤️
 
