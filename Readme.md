@@ -13,9 +13,10 @@ pip install GithubAutoRepo==0.0.1
 `import GithubAutoRepo`<br>
 
 ### PASS THE FOLLOWING ARGUMENTS:
-1. `REPO_PATH`<br><br>
-2. `GITHUB_TOKEN`<br><br>
-3. `GITHUB_USERNAME`<br>
+1. `REPO_PATH`<br>
+> Note: REPO_PATH IS THE PATH OF YOUR PROJECT YOU WANT TO UPLOAD TO THE REPOSITORY<br>
+3. `GITHUB_TOKEN`<br><br>
+4. `GITHUB_USERNAME`<br>
 
 Finally call the method  `autoRepo` by passing the above three arguments <br><br>
 `
