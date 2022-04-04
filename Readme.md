@@ -1,10 +1,10 @@
 ## This python module is used to create a github repository automatically and pushing all the files into that repository.
 
-## You can check out the module [GithubAutoRepo](https://pypi.org/project/GithubAutoRepo/0.0.1/#description)
+## You can check out the module [GithubAutoRepo](https://pypi.org/project/GithubAutoRepo/)
 
 Install this module by,<br>
 `
-pip install GithubAutoRepo==0.0.1
+pip install GithubAutoRepo
 `
 ### Use this module: <br>
 
